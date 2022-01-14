@@ -2,13 +2,13 @@ changelog:
   categories:
     - title: Breaking Changes
       labels:
-        - breaking change
+        - :broken_heart: breaking change
     - title: New Features
       labels:
-        - feature
+        - :ice_cube: feature
     - title: Bug
       labels: 
-        - bug
+        - :bug: bug
     - title: Other Changes
       labels:
         - "*"
