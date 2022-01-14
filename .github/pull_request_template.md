@@ -1,5 +1,3 @@
 # Title
 
-* Jira : <url>
-
-  @gsl-cedricpradels @sl-marinebarthelemy
+* [Jira ticket](https://jira.avivgroup.co/secure/RapidBoard.jspa)
